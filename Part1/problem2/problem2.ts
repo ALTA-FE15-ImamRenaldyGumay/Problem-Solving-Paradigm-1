@@ -18,4 +18,5 @@ function dragonOfLoowater (dragonHeads: number[], knight: number[]): number | st
     return totalHeight
 }
 
-export default dragonOfLoowater
+// export default dragonOfLoowater
+console.log(dragonOfLoowater([5, 4], [7, 8, 4]))
